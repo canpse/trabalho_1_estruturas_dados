@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: lucas.trabalho_1.data_structures.QueueFifoTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.088 s -- in lucas.trabalho_1.data_structures.QueueFifoTest
